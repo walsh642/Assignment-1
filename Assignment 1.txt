@@ -1,0 +1,14 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+<title>Assignment 1</title>
+</head>
+<body>
+<h1>Personal Information</h1>
+<p>Hi, I’m Mitch Walsh, that’s me pictured above on top of one of the pillars of the Sydney Harbour Bridge. I climbed the bridge a couple of days before that, if you ever get the chance, I recommend it, the view from the top really highlights just how beautiful Sydney harbour is. Sydney is my hometown; I grew up in Georges Hall located in Western Sydney. I attended school there, made friends there and although I’m situated 30 mins away from there now, I still frequent the area to visit childhood friends.
+At the age of 17 I began working as an apprentice plumber. I finished my 4-year apprenticeship when I was 21 and have been a tradesman ever since. I have been lucky enough to work on some of Sydney’s most prestigious buildings, one being Barangaroo Towers. 
+When I turned 18, I was old enough to go to local clubs and RSL clubs, that’s when the game of snooker caught my eye. I remember sitting there watching a bunch of older men playing this game which looked like 8-ball but vastly more complex and on a table 12 feet long by 6 feet wide. I was fascinated about what it was they were trying to achieve with each shot. I began to play amongst them and my love the game grew. I have played ever since, although most clubs are now getting rid of the snooker tables in favour of more poker machines, a painful picture for an adamant snooker fan.</p1>
+<h2>Interest in IT</h2>
+<p1>My interest in IT can be traced back to the year 1991. That was the year Terminator 2: Judgement Day was released although I would not have the pleasure of viewing this film for a few years after. Little did I know then that the film would spark an interest in IT for me. I think then I probably didn’t know what IT was, but I thought it was incredible that there were machines programmed to destroy mankind. Fast forward to now, and AI is a reality, thankfully for the greater good of mankind, for now anyway, although some may disagree. The world of AI is a wonderful insight into just how we have come especially in the last 20years. It wasn’t so long ago we were flicking a switch to the awful crunching sound of dial up internet. God forbid if somebody rang the house phone and cut you off when you were in the middle of a teenage conversation on MSN Messenger. 
+My interest in IT has grown progressively over the years and since undertaking a degree in Finance, I have gotten interest into how IT is used in the finance industry for programming algorithmic trading bots, stock screeners, economic indicators, news scanners and the list goes on. It seems the world of investing is quickly becoming the case of robot’s vs robots.  
+</p1> 
